@@ -1,0 +1,32 @@
+{
+  "name": "web_age_speed_test",
+  "version": "1.0.0",
+  "description": "Web speed test project.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzeeck/web_age_speed_test.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Johan Zeeck (johan@zeeck.se)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jzeeck/web_age_speed_test/issues"
+  },
+  "homepage": "https://github.com/jzeeck/web_age_speed_test#readme"
+}
