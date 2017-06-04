@@ -4,7 +4,7 @@
   "description": "Web speed test project.",
   "main": "index.js",
   "directories": {
-    "speedTest": "speed_test",
+    "components": "components",
     "test": "test"
   },
   "dependencies": {
