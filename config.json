@@ -1,0 +1,6 @@
+{
+    "apiKey" : "API-Key goes here",
+    "urls" : [
+        "https://www.google.com"
+        ]
+}
